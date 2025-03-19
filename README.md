@@ -1,1 +1,1 @@
-# mobilevit-pytorch-cifar10
+# MobileViT-PyTorch-CIFAR10
