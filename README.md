@@ -1,6 +1,6 @@
 # MobileViT-PyTorch-CIFAR10
 
-A PyTorch implementation of ["MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer"](https://arxiv.org/abs/2110.02178) (arXiv, 2021), <br/>
+A PyTorch implementation of ["MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer"](https://arxiv.org/abs/2110.02178) (arXiv, 2021),
 with custom modifications and trained on the CIFAR-10 dataset. This implementation is optimized for execution in the Google Colab environment.
 
 ## Implementation Details
