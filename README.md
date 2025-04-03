@@ -13,9 +13,9 @@ with custom modifications and trained on the CIFAR-10 dataset. This implementati
 3. Model Size Variants: Configurable model dimensions to balance size and performance
     * **Model Variants via dims Parameter:**  
       This implementation supports three variants of MobileViT that can be selected by specifying the `dims` parameter in the `MobileViT` class. The `dims` parameter controls the channel dimensions in MobileViT blocks and allows you to choose a model size that best fits your needs:
-        - **MobileViT-XXS:** `dims=[32, 64, 80]`
-        - **MobileViT-XS:** `dims=[64, 80, 96]`
-        - **MobileViT-S:** `dims=[96, 120, 144]`
+        * **MobileViT-XXS:** `dims=[32, 64, 80]`
+        * **MobileViT-XS:** `dims=[64, 80, 96]`
+        * **MobileViT-S:** `dims=[96, 120, 144]`
 
 
 ## Training Configuration
